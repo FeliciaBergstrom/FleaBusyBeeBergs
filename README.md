@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FleaBusyBeeBergs
-- 👀 I’m interested in databases 
-- 🌱 I’m currently learning Python/Pandas/Altair, VBA
-- 💞️ I’m looking to collaborate on data analysis 
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning Python/Pandas/Altair, VBA, mathmatical statistics
 - 📫 How to reach me: Discord ID FleaBusyBeeBergs#8031
 
 <!---
