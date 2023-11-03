@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FleaBusyBeeBergs
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning Python/Pandas/Altair, VBA, mathmatical statistics
+- 👀 I like pie <3
 - 📫 How to reach me: Discord ID FleaBusyBeeBergs#8031
 
 <!---
