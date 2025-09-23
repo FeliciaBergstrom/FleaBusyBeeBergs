@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @FleaBusyBeeBergs
-- 👀 I like pie <3
+- 👋 Welcome! I’m @FleaBusyBeeBergs
+- 👀 I'm a current student in the Master of Science in Data Science program at the University of Colorado, Boulder. I'm doing my coursework remotely from British Columbia, Canada
+- Please have a lookey-loo at my portfolio. I love exploring data from the world around me and sharing what I learn.
 - 📫 How to reach me: Discord ID FleaBusyBeeBergs#8031
 
 <!---
