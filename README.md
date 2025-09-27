@@ -5,11 +5,13 @@ Data Scientist</a>,
 <a href="https://github.com/FeliciaBergstrom">
 Statistician</a>,
 <a href="https://www.linkedin.com/in/felicia-bergstrom-data-science/">
-Business Management Professional</a>
+Business Intelligence </a>
 </h1>
 
-Current I'm a student in the Master of Science in Data Science program at the University of Colorado, Boulder. 
-I'm doing my coursework remotely from British Columbia, Canada. 
+Current CU Boulder student in the MSc-DS program, doing courses remotely from British Columbia, Canada.
+
+Expected date of graduation: <b> *May 2026* </b>
+
 Please feel free to browse my portfolio - I welcome anyone's critique as it's the best way to learn and grow.
 
 <h2>
