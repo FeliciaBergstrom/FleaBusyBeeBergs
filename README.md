@@ -10,7 +10,7 @@ Business Intelligence </a>
 
 Current CU Boulder student in the MSc-DS program, doing courses remotely from British Columbia, Canada.
 
-Expected date of graduation: <b> *May 2026* </b>
+Expected date of graduation: <b> *May 2027* </b>
 
 Please feel free to browse my portfolio - I welcome anyone's critique as it's the best way to learn and grow.
 
